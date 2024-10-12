@@ -374,7 +374,8 @@ margin-left: 50px;
     margin: 10px;
 }
 .fill{
-    width:650px
+    width:650px;
+    background-color: white;
 }
 
 
