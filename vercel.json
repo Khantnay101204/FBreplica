@@ -1,5 +1,5 @@
 {
-  "rewrites": [
-    { "source": "/(.*)", "FB.html": "/" }
+  "routes": [
+    { "src": "/", "dest": "/FB.html" }
   ]
 }
