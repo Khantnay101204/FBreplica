@@ -6,8 +6,8 @@
 
 body{
     background-color: rgb(30, 30, 30);
-    display:flex;
-   
+    display: flex;
+  
   
   
 }
@@ -16,9 +16,7 @@ body{
     background-color: rgb(30, 30, 30);
     width: 600px;
     padding: 20px;
-    margin-left: 650px;
-    margin-right:650px
-   
+   margin-left: 650px;
     
     
 }
@@ -374,11 +372,10 @@ margin-left: 50px;
     margin: 10px;
 }
 .fill{
-    width:650px;
+    width: 650px;
     height: 650px;
     background-color: white;
 }
-
 
 
 
